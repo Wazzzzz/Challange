@@ -26,7 +26,6 @@
             android:background="@color/white"
             android:layout_width="300dp"
             android:layout_height="40dp">
-
         </SearchView>
 
         <ImageView
